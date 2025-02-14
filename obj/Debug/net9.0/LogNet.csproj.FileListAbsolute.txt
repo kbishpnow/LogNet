@@ -1,0 +1,14 @@
+F:\DEV\LogNet\bin\Debug\net9.0\LogNet.exe
+F:\DEV\LogNet\bin\Debug\net9.0\LogNet.deps.json
+F:\DEV\LogNet\bin\Debug\net9.0\LogNet.runtimeconfig.json
+F:\DEV\LogNet\bin\Debug\net9.0\LogNet.dll
+F:\DEV\LogNet\bin\Debug\net9.0\LogNet.pdb
+F:\DEV\LogNet\obj\Debug\net9.0\LogNet.GeneratedMSBuildEditorConfig.editorconfig
+F:\DEV\LogNet\obj\Debug\net9.0\LogNet.AssemblyInfoInputs.cache
+F:\DEV\LogNet\obj\Debug\net9.0\LogNet.AssemblyInfo.cs
+F:\DEV\LogNet\obj\Debug\net9.0\LogNet.csproj.CoreCompileInputs.cache
+F:\DEV\LogNet\obj\Debug\net9.0\LogNet.dll
+F:\DEV\LogNet\obj\Debug\net9.0\refint\LogNet.dll
+F:\DEV\LogNet\obj\Debug\net9.0\LogNet.pdb
+F:\DEV\LogNet\obj\Debug\net9.0\LogNet.genruntimeconfig.cache
+F:\DEV\LogNet\obj\Debug\net9.0\ref\LogNet.dll
