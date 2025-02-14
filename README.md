@@ -1,4 +1,4 @@
-﻿# Logger for .NET Console Apps
+﻿# Logger for .NET Apps
 
 This is a simple logging library for .NET Console Applications. It provides logging functionality for both **console** and **file** outputs using an easy-to-use interface. 
 
